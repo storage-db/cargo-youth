@@ -12,7 +12,7 @@
 
 🔨 tools: VS Code, Docker, Shell
 
-💻 fields: Compiler, Computer Architecture, OS
+💻 fields:  Computer Architecture, OS ,Parallel Computing
 
 ## Statistics　
 <p align="left">
