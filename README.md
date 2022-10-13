@@ -20,3 +20,4 @@
 <img height="190px" src="https://github-readme-stats.vercel.app/api?username=cargo-youth&count_private=true&theme=tokyonight&show_icons=true&line_height=24" align = "center"/>
 <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cargo-youth&theme=tokyonight&layout=compact&langs_count=10" align = "center"/>
 </p>
+![](https://raw.githubusercontent.com/cargo-youth/main/assets/github-contribution-grid-snake.svg)              
